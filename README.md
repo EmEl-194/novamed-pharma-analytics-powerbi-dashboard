@@ -100,16 +100,16 @@ data/
 These datasets were cleaned, modelled, and transformed in Power BI using Power Query and DAX
 
 ## Dashboard Screenshots
-[KPI_Overview 1.png]
-[KPI_Overview 2.png]
-[Top_5_Drugs.png]
-[Bottom_5_Drugs.png]
-[Monthly_Performance.png]
-[Customer_Performance_Bottom5.png]
-[Customer_Performance_Top5.png]
-[Age_and_Gender_Distribution.png]
-[Buyer_Type_Distribution.png]
-[Revenue_by_Country.png]
+[KPI_Overview 1.png](Overview%201.png)
+[KPI_Overview 2.png](Overview%202.png)
+[Top_5_Drugs.png](Top_5_Drugs.png)
+[Bottom_5_Drugs.png](Bottom_5_Drugs.png)
+[Monthly_Performance.png](Monthly_Performance.png)
+[Customer_Performance_Bottom5.png](Customer_Performance_Bottom5.png)
+[Customer_Performance_Top5.png](Customer_Performance_Top5.png)
+[Age_and_Gender_Distribution.png](Age_and_Gender_Distribution.png)
+[Buyer_Type_Distribution.png](Buyer_Type_Distribution.png)
+[Revenue_by_Country.png](Revenue_by_Country.png)
 
 
 ## Business Recommendations
