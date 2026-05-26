@@ -17,7 +17,7 @@ These challenges impact profitability, operational efficiency, and long‑term m
 
 
 ## Project Objectives
-This analysis aims to:
+This analysis aimed to:
 - Evaluate overall sales performance and profitability
 - Identify top‑ and bottom‑performing drugs
 - Analyse customer behaviour and revenue contribution
@@ -28,13 +28,13 @@ This analysis aims to:
 
 ## Key Insights
 - NovaMed generated $61.68M in revenue with an 81.9% profit margin, indicating strong cost efficiency.
-- Revenue is highly concentrated — the top 5 drugs contribute 27% of total revenue.
-- Monthly revenue and profit fluctuate significantly, suggesting seasonal demand or operational inefficiencies.
-- Customer revenue is heavily skewed — top customers generate disproportionately higher revenue.
-- Older customers (54–65) are the primary revenue drivers, contributing $17.17M.
-- Revenue is evenly distributed across gender, with males contributing slightly more (47%).
+- Revenue was highly concentrated — the top 5 drugs contributed 27% of total revenue.
+- Monthly revenue and profit fluctuated significantly, suggesting seasonal demand or operational inefficiencies.
+- Customer revenue was heavily skewed — top customers generated disproportionately higher revenue.
+- Older customers (54–65) were the primary revenue drivers, contributing $17.17M.
+- Revenue was evenly distributed across gender, with males contributing slightly more (47%).
 - Sellers account for 88% of total revenue, indicating reliance on wholesale buyers.
-- Canada and Australia dominate revenue generation, highlighting strong market concentration.
+- Canada and Australia dominated revenue generation, highlighting strong market concentration.
 
 
 ## Features of the Dashboard
@@ -93,10 +93,10 @@ This structure supports efficient filtering, aggregation, and drill‑down analy
 
 
 ## Datasets Used
-[FactTable.csv](data/FactTable.csv) — Transaction-level sales data  
-[DrugLookup.csv](data/DrugLookup.csv) — Drug metadata including pricing and production cost  
-[CustomerTable.csv](data/CustomerTable.csv) — Customer demographics and attributes  
-These datasets were cleaned, modelled, and transformed in Power BI using Power Query and DAX
+[FactTable.csv](FactTable.csv) — Transaction-level sales data  
+[DrugLookup.csv](DrugLookup.csv) — Drug metadata including pricing and production cost  
+[CustomerTable.csv](CustomerTable.csv) — Customer demographics and attributes  
+These datasets were cleaned, modelled, and transformed in Power BI using Power Query and DAX.
 
 
 ## Dashboard Screenshots
@@ -140,4 +140,3 @@ These datasets were cleaned, modelled, and transformed in Power BI using Power Q
 
 ## Conclusion
 This Power BI case study provides a comprehensive view of NovaMed Solutions’ sales performance, highlighting key revenue drivers, customer behaviour, demographic patterns, and geographic opportunities. The insights and recommendations presented here support strategic decision‑making and operational improvement within the pharmaceutical distribution sector.
-
