@@ -93,11 +93,11 @@ This structure supports efficient filtering, aggregation, and drill‑down analy
 
 
 ## Datasets Used
-data/
-│── FactTable.csv
-│── DrugLookup.csv
-│── CustomerTable.csv
+[FactTable.csv](data/FactTable.csv) — Transaction-level sales data  
+[DrugLookup.csv](data/DrugLookup.csv) — Drug metadata including pricing and production cost  
+[CustomerTable.csv](data/CustomerTable.csv) — Customer demographics and attributes  
 These datasets were cleaned, modelled, and transformed in Power BI using Power Query and DAX
+
 
 ## Dashboard Screenshots
 [KPI_Overview1.png](Overview1.png)
