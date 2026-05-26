@@ -100,8 +100,8 @@ data/
 These datasets were cleaned, modelled, and transformed in Power BI using Power Query and DAX
 
 ## Dashboard Screenshots
-[KPI_Overview 1.png](Overview%201.png)
-[KPI_Overview 2.png](Overview%202.png)
+[KPI_Overview1.png](Overview1.png)
+[KPI_Overview2.png](Overview2.png)
 [Top_5_Drugs.png](Top_5_Drugs.png)
 [Bottom_5_Drugs.png](Bottom_5_Drugs.png)
 [Monthly_Performance.png](Monthly_Performance.png)
