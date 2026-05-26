@@ -26,7 +26,7 @@ This analysis aims to:
 - Provide actionable recommendations to improve business outcomes
 
 
-## ## Key Insights
+## Key Insights
 - NovaMed generated $61.68M in revenue with an 81.9% profit margin, indicating strong cost efficiency.
 - Revenue is highly concentrated — the top 5 drugs contribute 27% of total revenue.
 - Monthly revenue and profit fluctuate significantly, suggesting seasonal demand or operational inefficiencies.
