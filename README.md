@@ -26,6 +26,17 @@ This analysis aimed to:
 - Provide actionable recommendations to improve business outcomes
 
 
+## Tools Used
+Power BI
+
+
+## Key Steps
+- Data cleaning
+- Transformations
+- Analysis
+- Visualisation
+
+
 ## Key Insights
 - NovaMed generated $61.68M in revenue with an 81.9% profit margin, indicating strong cost efficiency.
 - Revenue was highly concentrated — the top 5 drugs contributed 27% of total revenue.
